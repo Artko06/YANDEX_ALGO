@@ -1,4 +1,4 @@
-# Тренировки по алгоритмам от яндекс
+# Тренировки по алгоритмам от Яндекс
 
 [Тренировки по алгоритмам 1.0](https://yandex.ru/yaintern/algorithm-training_1)
 [Тренировки по алгоритмам 2.0](https://yandex.ru/yaintern/algorithm-training_2)
