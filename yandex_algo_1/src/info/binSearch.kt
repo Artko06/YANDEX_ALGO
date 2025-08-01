@@ -1,16 +1,16 @@
 package info
 
 fun binarySearch(arr: List<Int>, target: Int): Int {
-    val left = 0
-    val right = arr.size - 1
+    var left = 0
+    var right = arr.size - 1
 
     while (left <= right) {
         val mid = (left + right) / 2
 
         when{
             arr[mid] == target -> return mid
-            arr[mid] < target -> return mid + 1
-            arr[mid] > target -> return mid - 1
+            arr[mid] < target -> left = mid + 1
+            arr[mid] > target -> right = mid - 1
         }
     }
 
