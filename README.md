@@ -5,3 +5,5 @@
 ## [Тренировки по алгоритмам 3.0](https://yandex.ru/yaintern/training/algorithm-training_3)
 ## [Тренировки по алгоритмам 4.0](https://yandex.ru/yaintern/training/algorithm-training_4)
 ## [Тренировки по алгоритмам 5.0](https://yandex.ru/yaintern/training/algorithm-training_5)
+## [Тренировки по алгоритмам 6.0](https://yandex.ru/yaintern/training/algorithm-training-october-2024)
+## [Тренировки по алгоритмам 7.0](https://yandex.ru/yaintern/training/algorithm-training)
